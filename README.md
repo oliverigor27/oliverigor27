@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://github.com/Igoroliveira98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverigor27&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverigor27&layout=compact&langs_count=7&theme=moltack"/>
+</div>
+
+<div align="center">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
