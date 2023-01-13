@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://github.com/oliverigor27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverigor27&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverigor27&layout=compact&langs_count=7&theme=moltack"/>
-</div>
- 
+
 <h2 align="center">Skills Languages</h2>
 
 <div align="center">
