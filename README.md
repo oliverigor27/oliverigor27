@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" display="flex">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliverigor27&show_icons=true&theme=swift&include_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverigor27&theme=swift&layout=compact">
 </div>
