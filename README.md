@@ -1,6 +1,8 @@
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliverigor27&show_icons=true&theme=swift&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverigor27&theme=swift&layout=compact">
+</div>
 
-  ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=oliverigor27&show_icons=true&theme=swift&include_all_commits=true)
-  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverigor27&theme=swift&layout=compact)
 
 
 <h2 align="center">Skills Languages</h2>
