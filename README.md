@@ -43,5 +43,5 @@ Email: igoroliveira2798@gmail.com
 ## My github stats
 <div>
 <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=oliverigor27&show_icons=true&theme=gotham" alt="oliverigor27" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessilyneh&layout=compact&langs_count=5&theme=gotham"/>
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverigor27&layout=compact&langs_count=5&theme=gotham"/>
 <div/>
