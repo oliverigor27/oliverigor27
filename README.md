@@ -1,5 +1,5 @@
 ## Welcome!!
-![Exemplo de Gif](https://64.media.tumblr.com/2155d7479a8d2267c0bfc8201b4cc910/tumblr_pbts3y0r8w1rzmnzao1_540.gifv)
+![Mercador](https://i.imgur.com/scbJKVM.gif)
 
 </br>
 🚀 I'm a Software Developer and Architect who thrives on technical challenges. Proficient in TypeScript and C#, my journey in crafting robust solutions is fueled by insatiable curiosity.
