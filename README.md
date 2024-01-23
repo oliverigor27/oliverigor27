@@ -16,7 +16,7 @@
 
 Email: igoroliveira2798@gmail.com
 
-## You can find out more about my work:
+## You can contact me on:
 
 <a href="https://www.linkedin.com/in/igorbomfim27/">
   <img alt="Igor Bomfim's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,7 +26,7 @@ Email: igoroliveira2798@gmail.com
 </a>
 <br/>
 
-## Stack:
+## My Stack:
 <div>
   <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
