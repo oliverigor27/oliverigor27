@@ -3,6 +3,7 @@
 
 </br>
 Olá e bem-vindo ao meu perfil! Aqui, você encontrará uma ampla coleção de algoritmos, projetos de programação de baixo nível e aplicações server-side. Meu foco principal reside não apenas em desenvolver soluções eficazes, mas também em aprimorar a performance do código através de ferramentas e técnicas de otimização. Além disso, tenho uma forte preocupação com a arquitetura de software e a implementação de design patterns, visando criar sistemas robustos e escaláveis.
+</br>
 
 Email: igoroliveira2798@gmail.com
 
