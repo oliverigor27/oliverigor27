@@ -2,17 +2,7 @@
 ![Mercador](https://i.imgur.com/scbJKVM.gif)
 
 </br>
-🚀 I'm a Software Developer and Architect who thrives on technical challenges. Proficient in TypeScript and C#, my journey in crafting robust solutions is fueled by insatiable curiosity.
-</br>
-</br>
-
-🌐 Beyond my development experience, I bring a strong foundation in networking and IT support, providing a comprehensive view of IT.
-
-📚 Currently, I'm immersed in researching Software Architecture and Computer Theory, continually seeking to enhance my knowledge.
-
-🏈 When I'm not coding, you'll find me engaging in sports, keeping my mind as sharp as my code.
-
-💬 Let's discuss how my passion and skills can contribute to your next project? I'm always open to new opportunities and exciting collaborations.
+Olá e bem-vindo ao meu perfil! Aqui, você encontrará uma ampla coleção de algoritmos, projetos de programação de baixo nível e aplicações server-side. Meu foco principal reside não apenas em desenvolver soluções eficazes, mas também em aprimorar a performance do código através de ferramentas e técnicas de otimização. Além disso, tenho uma forte preocupação com a arquitetura de software e a implementação de design patterns, visando criar sistemas robustos e escaláveis.
 
 Email: igoroliveira2798@gmail.com
 
