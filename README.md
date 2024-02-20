@@ -18,6 +18,9 @@ Email: igoroliveira9827@gmail.com
 <a href="https://www.upwork.com/freelancers/~01a07872484a15d1e9">
   <img alt="Igor Bomfim's Upwork" width="100em" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
+<a href="https://www.hackerrank.com/profile/igoroliveira9827">
+  <img alt="Igor Bomfim's Upwork" width="100em" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
 <br/>
 
 ## My Stack:
