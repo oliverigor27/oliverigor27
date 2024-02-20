@@ -2,10 +2,10 @@
 ![Mercador](https://i.imgur.com/scbJKVM.gif)
 
 </br>
-Olá e bem-vindo ao meu perfil! Aqui, você encontrará uma ampla coleção de algoritmos, projetos de programação de baixo nível e aplicações server-side. Meu foco principal reside não apenas em desenvolver soluções eficazes, mas também em aprimorar a performance do código através de ferramentas e técnicas de otimização. Além disso, tenho uma forte preocupação com a arquitetura de software e a implementação de design patterns, visando criar sistemas robustos e escaláveis.
+Hello and welcome to my profile! Here, you will find a broad collection of algorithms, low-level programming projects, and server-side applications. My main focus lies not only in developing effective solutions but also in enhancing code performance through optimization tools and techniques. Additionally, I have a strong concern for software architecture and the implementation of design patterns, aiming to create robust and scalable systems.
 </br>
 </br>
-Email: igoroliveira2798@gmail.com
+Email: igoroliveira9827@gmail.com
 
 ## You can contact me on:
 
@@ -14,6 +14,9 @@ Email: igoroliveira2798@gmail.com
 </a>
 <a href="https://dev.to/oliverigor27">
   <img alt="Igor Bomfim's Dev.to" width="100em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01a07872484a15d1e9">
+  <img alt="Igor Bomfim's Upwork" width="100em" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
 <br/>
 
@@ -27,6 +30,11 @@ Email: igoroliveira2798@gmail.com
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <br/> <br/>
+  <img align="center" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white">
 </div>
 <br />
   
