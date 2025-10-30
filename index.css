@@ -1,0 +1,39 @@
+body {
+    background-color: #00665E;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sociais a {
+    color: white;
+    padding: 0 15px;
+}
+
+.recomendations {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subtitles {
+    font-size: 18px;
+}
+
+.itens {
+    color: white;
+}
